@@ -29,7 +29,7 @@ Yes | Ctrl + Return | open ~/.tmux.conf
 ### Sessions
 Prefix | Command | Description
 -------|---------|-----------
-Yes | Ctrl + S | new session
+Yes | Ctrl + q | new session
 Yes | S | kill session
 Yes | s | choose session
 Yes | . | rename session
