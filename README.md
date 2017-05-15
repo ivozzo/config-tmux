@@ -48,8 +48,8 @@ No | Ctrl + Right | next Windows
 ### Panes
 Prefix | Command | Description
 -------|---------|-----------
-Yes | \| | split window vertically
-Yes | - | split window horizontally
+Yes | h | split window vertically
+Yes | v | split window horizontally
 No | Shift + Left | resize pane
 No | Shift + Right | resize pane
 No | Shift + Up | resize pane
