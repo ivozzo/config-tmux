@@ -62,6 +62,11 @@ Yes | Down | select bottom pane
 Yes | Left | select left pane
 Yes | Right | select right pane
 
+### Miscellaneous
+Prefix | Command | Description
+-------|---------|-----------
+Yes | Ctrl + d | opens a docker monitoring session (watch on docker ps, images, networks, volumes and a bash)
+
 ## Simplicity is the key
 Jokes aside, I tried to make it as simple as possible.
 You'll find a friend in 
