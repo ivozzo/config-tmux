@@ -42,8 +42,8 @@ Prefix | Command | Description
 Yes | Ctrl + w | new window
 Yes | W | kill actual window
 Yes | , | rename window
-No | Ctrl + Left | previous window
-No | Ctrl + Right | next Windows
+No | Ctrl + p | previous window
+No | Ctrl + n | next Windows
 
 ### Panes
 Prefix | Command | Description
