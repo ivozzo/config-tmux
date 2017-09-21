@@ -42,8 +42,8 @@ Prefix | Command | Description
 Yes | Ctrl + w | new window
 Yes | W | kill actual window
 Yes | , | rename window
-No | Ctrl + Left | previous window
-No | Ctrl + Right | next Windows
+No | Ctrl + p | previous window
+No | Ctrl + n | next Windows
 
 ### Panes
 Prefix | Command | Description
@@ -61,6 +61,11 @@ Yes | Up | select upper pane
 Yes | Down | select bottom pane
 Yes | Left | select left pane
 Yes | Right | select right pane
+
+### Miscellaneous
+Prefix | Command | Description
+-------|---------|-----------
+Yes | Ctrl + d | opens a docker monitoring session (watch on docker ps, images, networks, volumes and a bash)
 
 ## Simplicity is the key
 Jokes aside, I tried to make it as simple as possible.
