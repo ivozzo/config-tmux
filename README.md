@@ -3,7 +3,7 @@
 This is my TMUX configuration, nothing special.
 
 ## TPM usage
-I used [TMUX plugin manager](https://github.com/tmux-plugins/tpm) for importing [jimeh/themepack](https://github.com/jimeh/tmux-themepack) plugin.
+I used [TMUX plugin manager](https://github.com/tmux-plugins/tpm) for importing [jimeh/themepack](https://github.com/jimeh/tmux-themepack), [seebi/tmux-colors-solarized](https://github.com/seebi/tmux-colors-solarized) plugins.
 You'll find specific plugin usage instruction in the linked repos.
 
 ## Miscellaneous
@@ -16,7 +16,11 @@ You can open ranger (if installed) with:
 ```
 <prefix> +
 ```
-this will result in a vertical split
+this will result in a vertical split, or use:
+```
+<prefix> -
+```
+for opening in a new window.
 
 ## Configurations
 ### Managing .conf
